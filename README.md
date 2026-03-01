@@ -1,4 +1,4 @@
-# Hi there, I'm <Your Name>! 👋
+# Hi there, I'm Denis! 👋
 
 ### Full-Stack Developer | Building High-Performance Systems & Modern Web Apps
 
@@ -29,16 +29,11 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 #### 🐱‍💻 Codewars
 [![Codewars Stats](https://www.codewars.com/users/PinkPunkForever/badges/large)](https://www.codewars.com/users/PinkPunkForever)
 
-#### 💡 LeetCode
-<p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=yupisoftwarepunk&theme=dark" alt="LeetCode Stats" />
-</p>
-
 ---
 
 ### 📈 GitHub Ecosystem
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=YupiSoftwarePunk&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YupiSoftwarePunk&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
