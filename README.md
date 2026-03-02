@@ -15,12 +15,12 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 #### ⚙️ Backend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,cs,dotnet" alt="Backend Skills" />
 </p>
 
 #### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,postman,git" alt="Tools and DB" />
+  <img src="https://skillicons.dev/icons?i=postgres,cmake,postman,git" alt="Tools and DB" />
 </p>
 
 > **Core Focus:** I specialize in building robust backends with **ASP.NET Core** and crafting responsive UIs using **Tailwind CSS** and **React**.
