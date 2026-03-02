@@ -10,7 +10,7 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 #### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite" alt="Frontend Skills" />
 </p>
 
 #### ⚙️ Backend & Frameworks
@@ -20,7 +20,7 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 #### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,postman,git,visualstudio,vscode" alt="Tools and DB" />
+  <img src="https://skillicons.dev/icons?i=postgres,mssql,postman,git" alt="Tools and DB" />
 </p>
 
 > **Core Focus:** I specialize in building robust backends with **ASP.NET Core** and crafting responsive UIs using **Tailwind CSS** and **React**.
@@ -38,9 +38,9 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 ### 📫 Let's Connect!
 <p align="left">
   <a href="https://t.me/DennyDeveloperr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="40" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"         alt="Telegram" />
   </a>
   <a href="mailto:youngperchik2404@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
