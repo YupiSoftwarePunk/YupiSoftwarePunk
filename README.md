@@ -18,6 +18,11 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" alt="Backend Skills" />
 </p>
 
+#### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mssql,postman,git" alt="Tools and DB" />
+</p>
+
 > **Core Focus:** I specialize in building robust backends with **ASP.NET Core** and crafting responsive UIs using **Tailwind CSS** and **React**.
 
 ---
@@ -28,3 +33,10 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 #### 🐱‍💻 Codewars
 [![Codewars Stats](https://www.codewars.com/users/PinkPunkForever/badges/large)](https://www.codewars.com/users/PinkPunkForever)
+
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://t.me/@DennyDeveloperr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="mailto:youngperchik2404@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
