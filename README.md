@@ -10,7 +10,7 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 #### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,figma" alt="Frontend Skills" />
 </p>
 
 #### ⚙️ Backend & Frameworks
@@ -20,7 +20,7 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 #### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mssql,postman,git" alt="Tools and DB" />
+  <img src="https://skillicons.dev/icons?i=postgres,postman,git" alt="Tools and DB" />
 </p>
 
 > **Core Focus:** I specialize in building robust backends with **ASP.NET Core** and crafting responsive UIs using **Tailwind CSS** and **React**.
