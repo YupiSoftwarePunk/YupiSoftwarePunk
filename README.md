@@ -2,6 +2,10 @@
 
 ### Full-Stack Developer | Building High-Performance Systems & Modern Web Apps
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&lines=Full-Stack+Developer;C%23+%2F+ASP.NET+Expert;C%2B%2B+%2F+Qt+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+</p>
+
 I am a passionate developer focused on creating efficient, scalable, and user-friendly applications. I enjoy bridging the gap between complex backend logic and sleek frontend interfaces. Currently honing my skills in the .NET ecosystem and modern React patterns.
 
 ---
@@ -24,6 +28,13 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 </p>
 
 > **Core Focus:** I specialize in building robust backends with **ASP.NET Core** and crafting responsive UIs using **Tailwind CSS** and **React**.
+
+---
+
+### 🚀 Highlight Projects
+- **[MindFlow](https://github.com/YupiSoftwarePunk/MindFlow)** — AI-agent simulation system developed during Cyber Leap hackathon.
+- **[Minimum Messenger](https://github.com/YupiSoftwarePunk/Minimum)** — A clean, Avalonia-based messenger built with C#.
+- **[Education-Planner](https://github.com/YupiSoftwarePunk/Education-Planner)** — Course tracking tool for graduate students.
 
 ---
 
