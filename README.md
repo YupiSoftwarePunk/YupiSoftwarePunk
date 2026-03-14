@@ -38,6 +38,18 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 ---
 
+### 📈 GitHub Activities & Stats
+<p align="center">
+  <img src="https://github-readme-stats-git-master-jstin.vercel.app/api?username=YupiSoftwarePunk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-master-jstin.vercel.app/api/top-langs/?username=YupiSoftwarePunk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YupiSoftwarePunk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📊 Competitive Programming Stats
 
 *Tracking my progress in algorithms and data structures:*
