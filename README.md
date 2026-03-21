@@ -10,19 +10,19 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 ---
 
-### 🛠 Tech Stack & Skills
+### Tech Stack & Skills
 
-#### 🌐 Frontend Development
+#### Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,figma" alt="Frontend Skills" />
 </p>
 
-#### ⚙️ Backend & Frameworks
+#### Backend & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,qt,cs,dotnet" alt="Backend Skills" />
 </p>
 
-#### 🗄️ Databases & Tools
+#### Databases & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,cmake,postman,git" alt="Tools and DB" />
 </p>
@@ -31,14 +31,14 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 ---
 
-### 🚀 Highlight Projects
+### Highlight Projects
 - **[MindFlow](https://github.com/Dasadno/MindFlow.git)** — AI-agent simulation system developed during Cyber Leap hackathon.
 - **[Minimum Messenger](https://github.com/NekichNet/Minimum.git)** — A clean, Avalonia-based messenger built with C#.
 - **[Education-Planner](https://github.com/Vlad-Vershinin/Education-Planner.git)** — Course tracking tool for graduate students.
 
 ---
 
-### 📈 GitHub Activities & Stats
+### GitHub Activities & Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YupiSoftwarePunk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -47,11 +47,11 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 ### 📊 Competitive Programming Stats
 
-#### 🐱‍💻 Codewars
+#### Codewars
 [![Codewars Stats](https://www.codewars.com/users/PinkPunkForever/badges/large)](https://www.codewars.com/users/PinkPunkForever)
 
 
-### 📫 Let's Connect!
+### Let's Connect!
 <p align="left">
   <a href="https://t.me/DennyDeveloperr" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"         alt="Telegram" />
