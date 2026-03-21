@@ -47,8 +47,6 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 ### 📊 Competitive Programming Stats
 
-*Tracking my progress in algorithms and data structures:*
-
 #### 🐱‍💻 Codewars
 [![Codewars Stats](https://www.codewars.com/users/PinkPunkForever/badges/large)](https://www.codewars.com/users/PinkPunkForever)
 
