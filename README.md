@@ -38,13 +38,6 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 ---
 
-### GitHub Activities & Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YupiSoftwarePunk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### Competitive Programming Stats
 
 #### Codewars
