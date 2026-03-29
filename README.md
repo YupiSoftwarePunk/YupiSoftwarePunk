@@ -32,9 +32,9 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 ---
 
 ### Highlight Projects
-- **[MindFlow](https://github.com/Dasadno/MindFlow.git)** — AI-agent simulation system developed during Cyber Leap hackathon.
-- **[Minimum Messenger](https://github.com/NekichNet/Minimum.git)** — A clean, Avalonia-based messenger built with C#.
-- **[Education-Planner](https://github.com/Vlad-Vershinin/Education-Planner.git)** — Course tracking tool for graduate students.
+- **[MindFlow](https://github.com/Dasadno/MindFlow.git)** — A web app that uses AI agents to generate endless ideas.
+- **[Minimum Messenger](https://github.com/NekichNet/Minimum.git)** — A minimal Avalonia-based messenger built with C#.
+- **[Education-Planner](https://github.com/Vlad-Vershinin/Education-Planner.git)** — Course tracking tool for graduate students. It also provides courses for additional learning.
 
 ---
 
