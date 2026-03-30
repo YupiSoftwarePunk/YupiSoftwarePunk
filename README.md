@@ -17,7 +17,7 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,figma" alt="Frontend Skills" />
 </p>
 
-#### Backend & Frameworks
+#### Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,qt,cs,dotnet" alt="Backend Skills" />
 </p>
