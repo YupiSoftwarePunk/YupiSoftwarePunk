@@ -14,7 +14,7 @@ I am a passionate developer focused on creating efficient, scalable, and user-fr
 
 #### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,vite,figma" alt="Frontend Skills" />
 </p>
 
 #### Backend Development
